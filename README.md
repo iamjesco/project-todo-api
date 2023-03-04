@@ -3,7 +3,7 @@
 
 A basic CRUD Api created with Java
 
-### Api Developer: 
+### Project Developer: 
 * Raylie Augustino Martina
 
 # API endpoints
@@ -90,7 +90,9 @@ HTTP/1.1 204 OK
 []
 ```
 
+# Authentication protocols
 
+To be decided by developer.
 
 
 
